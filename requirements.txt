@@ -1,6 +1,6 @@
 pandas
 numpy
 scikit-learn
-import joblib
-fastapi
 joblib
+fastapi
+dvc
